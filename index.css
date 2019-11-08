@@ -1,0 +1,14 @@
+.desc a 
+{
+    color:red;
+    text-decoration: none;
+}
+
+.show
+{
+    position: fixed;
+    bottom: 75px;
+    right: 74px;
+    z-index: 33;
+}
+
